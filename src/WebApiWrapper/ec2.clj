@@ -21,9 +21,8 @@
 ;(def SECRET_KEY "")
 ;(def USERNAME "")
 
-;(def IMAGE_ID "ami-96b74eff")
-(def AVAILABILITY_ZONE "us-east-1c")
-(def KEY_NAME "huber_satish")
+(def AVAILABILITY_ZONE "")
+(def KEY_NAME "")
 (def MIN_COUNT 1)
 (def MAX_COUNT 1)
 
@@ -31,7 +30,7 @@
 (def VM_MOUNT_POINT "/volume1")
 
 (def VM_USERNAME "ubuntu")
-(def VM_PRIVATE_KEY_LOCATION "/home/huber/Desktop/TechnicalInformation/HuberFlores/pk-huber_satish.pem")
+(def VM_PRIVATE_KEY_LOCATION "")
 (def VM_SUDO "sudo")
 
 (defn read-config
