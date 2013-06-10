@@ -13,7 +13,10 @@ Requirements
 Installation
 -------------
 
-- lein deps
+$ lein deps
 
-- lein uberjar
 
+$ lein uberjar
+.
+.
+WebApiWrapper-1.0.0-SNAPSHOT-standalone.jar is created
