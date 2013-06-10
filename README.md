@@ -26,4 +26,8 @@ WebApiWrapper-1.0.0-SNAPSHOT-standalone.jar is created
 Usage
 ------
 
+- Locate the Web API into the classpath of your project
+
+- Invoke the service using the unique interface mcminteroperability ([Gist example](https://gist.github.com/5747779.git) 
+
 
