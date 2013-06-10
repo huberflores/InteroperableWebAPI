@@ -1,7 +1,7 @@
 InteroperableWebAPI
 ===================
 
-Interoperable Web API for Mobile Cloud Middleware. The Wrapper abstracts multiple Web APIs from different clouds in a common operation level. Moreover, it provides a unique interface for service delegation.
+Interoperable Web API for Mobile Cloud Middleware. The Wrapper abstracts multiple Web APIs from different clouds in a common operation level. Moreover, it provides a unique interface for service invocation.
 
 
 
