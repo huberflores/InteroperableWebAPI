@@ -1,8 +1,16 @@
-InteroperableWebAPI
+Interoperable Web API
 ===================
 
 Interoperable Web API for Mobile Cloud Middleware. The Wrapper abstracts multiple Web APIs from different clouds in a common operation level. Moreover, it provides a unique interface for service invocation.
 
+This wrapper includes the following Web APIs
+- typica
+
+- jetS3t
+
+- Amazon API for S3
+
+- GData 
 
 
 Requirements
