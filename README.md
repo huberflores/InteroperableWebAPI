@@ -28,6 +28,6 @@ Usage
 
 - Locate the Web API within the classpath of your java project
 
-- Invoke the service using the unique interface ''mcminteroperability'' ([Gist example](https://gist.github.com/5747779.git)) 
+- Invoke the service using the unique interface mcminteroperability ([Gist example](https://gist.github.com/5747779.git)) 
 
 
