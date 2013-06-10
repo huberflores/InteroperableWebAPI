@@ -17,6 +17,13 @@ $ lein deps
 
 
 $ lein uberjar
+
 .
 .
 WebApiWrapper-1.0.0-SNAPSHOT-standalone.jar is created
+
+
+Usage
+------
+
+
