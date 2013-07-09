@@ -17,7 +17,7 @@
 ;These are comments
 ;(def cred {:access-key "your-idkey", :secret-key "your-secretkey"})
 ;example
-;(WebApiWrapper.mcminteroperability/startInstance "AKIAJFIEZ5567RYA4UKQ" "rgPrHsnAtRl+T/SxafYr2tj4xt1Jl00KEVUfDuU5" "ami-96b74eff")
+;(WebApiWrapper.mcminteroperability/startInstance "AccessKEY" "SecretKey" "ami-96b74eff")
 
 (defn startInstance
   "Received the credentials and the image identifier." 
